@@ -1,5 +1,7 @@
 
-🛠 Status: *Research* 
+🛠 Status: *In Development* 
+
+> Aragon has funded the [Aragon Black](https://aragon.black) team to create an implementation of Apiary as an Aragon App. Development is happening in Aragon Black's [fundraising repo](https://github.com/aragonblack/fundraising)
 
 # Apiary Project Proposal Draft
 
